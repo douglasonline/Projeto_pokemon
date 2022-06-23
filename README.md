@@ -1,4 +1,4 @@
-Esse projeto foi criado utilizando o Tomcat v10.0 e a IDE Eclipse e o Banco de dados utilizado foi o MySQL
+Esse projeto foi criado utilizando o Tomcat v10.0 e a IDE Eclipse e o Banco de dados utilizado foi o MySQL e java JDK 11
 
 Após adicionar o projeto no Eclipse acesse Server e adicione o Tomcat
 
